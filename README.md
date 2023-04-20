@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Angel Gabriel💯</h1>
 <div id="header" aling="center">
+  <h1 align="center">Hi 👋, I'm Angel Gabriel💯</h1>
 <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif" width="200">
 </div>
 <h3 align="center">A passionate backend and frontend developer from Colombia</h3>
