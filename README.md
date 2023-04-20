@@ -1,7 +1,9 @@
 <h1> Hi 👋, I'm Angel Gabriel💯</h1>
 <div id="header" aling="center">
-<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif" style="width: 200px;">
+<img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" style="width: 200px;">
 </div>
+
+
 <h3 align="center">A passionate backend and frontend developer from Colombia</h3>
 
 - 🔭 I’m currently working on **astral divinity IA**
