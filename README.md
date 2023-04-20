@@ -1,16 +1,18 @@
-### Hi there 👋
+<div id="header" aling="center">
+<img src="https://media.giphy.com/media/vrxxqQbyRxYi6scCjT/giphy.gif" width="200">
+<h1 aling="center">hellou im Angel</h1>
+<h3>a future full stack developer if you want to work as a team on any project don't hesitate to contact me.</h3>
+</div>
 
-<!--
-**angelgabrielortegacorzoCAMPUS/angelgabrielortegacorzoCAMPUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###a few about me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I usually use Unreal Engine 4 as a hobby.
+
+- I enjoy programming focused more on the backend but frontend is good too.
+
+- I really like java script even though it is responsible for a lot of my problems.
+
+- in the process of campus programmers land
+
