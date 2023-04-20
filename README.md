@@ -6,7 +6,7 @@
 
 ---
 
-###a few about me :
+a few about me :
 
 - I usually use Unreal Engine 4 as a hobby.
 
