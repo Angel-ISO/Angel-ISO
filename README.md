@@ -1,5 +1,5 @@
 <h1> Hi 👋, I'm Angel Gabriel💯</h1>
-<div id="header" aling="center">
+<div id="header" align="center">
 <img src="https://media.giphy.com/media/UqxVRm1IaaIGk/giphy.gif" style="width: 200px;">
 </div>
 
