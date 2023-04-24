@@ -6,11 +6,11 @@
 
 <h3 align="center">A passionate backend and frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **astral divinity IA**
+- 🔭 I’m currently working on **space runers**
 
-- 🌱 I’m currently learning **PHP and NODE**
+- 🌱 I’m currently learning **PHP, NODE and vue **
 
-- 👯 I’m looking to collaborate on **tribus campus**
+- 👯 I’m looking to collaborate on **mircrosotf and mojang**
 
 - 🤝 I’m looking for help with **other companies**
 
