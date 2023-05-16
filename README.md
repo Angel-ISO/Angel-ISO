@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **other companies**
 
-- 💬 Ask me about **java Script- html- css3- python**
+- 💬 Ask me about **java Script- html- css3- python- scss- php**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
