@@ -10,7 +10,7 @@
 
 <h3 align="center">A passionate backend and frontend developer from Colombia</h3>
 
-- 🔭 I’m currently working on **space runers**
+- 🔭 I’m currently working on **space runners**
 
 - 🌱 I’m currently learning **PHP, NODE and vue **
 
