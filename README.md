@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **space runners**
 
-- 🌱 I’m currently learning **PHP, NODE and vue **
+- 🌱 I’m currently learning **Php, c#, .net, .netcore and vue **
 
 - 👯 I’m looking to collaborate on **mircrosotf and mojang**
 
