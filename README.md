@@ -8,9 +8,11 @@
 
 
 
-<h3 align="center">A passionate backend and frontend developer from Colombia</h3>
+<h3 align="center">A passionate backend70% and frontend30% developer from Colombia</h3>
 
-- 🔭 I’m currently working on **space runners**
+- 👀 my briefcase on **https://64af4061b4788d1017c9345e--warm-medovik-856388.netlify.app/ **
+
+- 🔭 I’m currently working on **space runners and campuslands**
 
 - 🌱 I’m currently learning **Php, c#, .net, .netcore and vue **
 
@@ -18,7 +20,7 @@
 
 - 🤝 I’m looking for help with **other companies**
 
-- 💬 Ask me about **java Script- html- css3- python- scss- php**
+- 💬 Ask me about **java Script- html- css3- python- .net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
