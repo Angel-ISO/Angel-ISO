@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **space runners and campuslands**
 
-- 🌱 I’m currently learning **Php, c#, .net, .netcore and vue **
+- 🌱 I’m currently learning **.netcore, vue, python **
 
 - 👯 I’m looking to collaborate on **mircrosotf and mojang**
 
@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/angel gabriel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel gabriel" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angel-gabriel-ortega-a6500a273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angel gabriel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
