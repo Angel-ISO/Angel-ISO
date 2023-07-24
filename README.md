@@ -35,6 +35,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Angel-Iso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/einyel_374) 
 
 
 
@@ -49,7 +51,11 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Angel-ISO&label=Profile%20Views&color=4&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+
+
+
+
 
 
 
