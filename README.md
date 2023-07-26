@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **space runners and campuslands**
 
-- 🌱 I’m currently learning **.netcore, vue, python **
+- 🌱 I’m currently learning **.netcore, c#, mongodb and react **
 
 - 👯 I’m looking to collaborate on **mircrosotf and mojang**
 
