@@ -14,6 +14,11 @@
 
 <h3 align="center">A passionate backend70% and frontend30% developer from Colombia</h3>
 
+
+
+
+
+
 - 🔭 I’m currently working on **space runners and campuslands**
 
 - 🌱 I’m currently learning **.netcore, vue, python **
