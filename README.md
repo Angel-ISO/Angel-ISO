@@ -40,6 +40,11 @@
 
 
 
+<img src="https://raw.githubusercontent.com/Angel-ISO/Angel-ISO/output/snake.svg" alt="Snake animation" />
+
+
+
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Angel-Iso&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
