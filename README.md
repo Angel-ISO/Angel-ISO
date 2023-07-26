@@ -14,8 +14,8 @@
 
 <h3 align="center">A passionate backend70% and frontend30% developer from Colombia</h3>
 
-
-
+<br/>
+<br/>
 
 
 
@@ -89,8 +89,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 
 </p>
-
-
+<br/>
+<br/>
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -99,6 +100,8 @@
   <br/><br/><br/>
 </div>
 
+<br/>
+<br/>
 ##                                           🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Angel-Iso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
