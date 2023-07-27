@@ -119,9 +119,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Iso&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=i+wait+ for+ur+message!;" />
-</h1>
+
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
 
 
 
