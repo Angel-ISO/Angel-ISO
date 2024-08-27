@@ -12,7 +12,7 @@
 
 
 
-<h3 align="center">A passionate backend70% and frontend30% developer from Colombia</h3>
+<h3 align="center">A passionate future software engineer from Colombia</h3>
 
 <br/>
 <br/>
