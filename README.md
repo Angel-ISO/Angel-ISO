@@ -1,35 +1,33 @@
-<div id="header" align="center">
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Angel-ISO.Angel-ISO" />
+![dfs](https://user-images.githubusercontent.com/80870870/234917106-7e268bab-be5e-4b66-b0f5-52ff7a43d12a.png)
 
-<h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Angel+Gabriel+Ortega!;" />
-</h1>
+
+
+  
+
+<div id="header" align="center">
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=3000&pause=1000&color=79021C&center=true&vCenter=true&width=500&height=40&lines=Hi+everyone!+%F0%9F%96%90%EF%B8%8F;I'm+Angel+Ortega++%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
 
 
+<h2 align="center">A little bit about me:</h2>
+
+###
+
+<img align="right" height="190" src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif"  />
 
 
+<p align="center">I am a software engineer student from Colombia. I am passionate about programming and I love to learn new things. I have a strong interest in computer science and programming, and I am always looking for new challenges and opportunities to grow my skills and knowledge. I am also a lifelong learner and a curious person, always eager to explore new ideas and technologies. I believe that the key to success is to constantly challenge yourself and to never stop learning. Im cyrrently finishing my deegree in software engineering at the University of <a href="https://www.linkedin.com/school/jala-university">jala university</a> from USA.</p>
 
-<h3 align="center">A passionate future software engineer from Colombia</h3>
+
 
 <br/>
 <br/>
 
-
-
-- 🔭 I’m currently working on **space runners and campuslands**
-
-- 🌱 I’m currently learning **java **
-
-- 👯 I’m looking to collaborate on **mircrosotf and mojang**
-
-- 🤝 I’m looking for help with **other companies**
-
-- 💬 Ask me about **java Script- html- css3- python- .net**
-
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me:</h2>
 <p align="center">
  <a href="angelgabrielorteg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -38,15 +36,22 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://warm-medovik-856388.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+     <a href="https://x.com/angelg374" target="_blank">
+     <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=X&logoColor=white"  target="_blank" />
+  </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+
+<br/>
+<br/>
+
+
+<h2 align="center">Languages and Tools:</h2>
 <p align="center"> 
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
   <img width="12" />
@@ -106,8 +111,74 @@
 <br/>
 <br/>
 <br/>
+
+
+
+
+<img align="right" height="190" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" />
+
+
+<h2 align="center">Some of my favorite projects:</h2>
+
+<br/>
+
+<table align="center">
+
+<tr>
+
+<td width="25%" align="center">
+  <a href="https://github.com/Angel-ISO/capstone">
+    <img src="./images/GameOfLife.png" alt="Game Of Life Project" width="100%">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Not%20Deployed-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Not Deployed">
+  </a>
+</td>
+
+
+<td width="25%" align="center">
+  <a href="https://github.com/Angel-ISO/to-do">
+    <img src="./images/To-do.png" alt="To do Project" width="100%">
+  </a>
+ <a href="">
+    <img src="https://img.shields.io/badge/Not%20Deployed-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Not Deployed">
+  </a>
+</td>
+
+
+<td width="25%" align="center">
+  <a href="https://github.com/Angel-ISO/transaction-module">
+    <img src="./images/AVTL.png" alt="Transaction module Project" width="100%">
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Not%20Deployed-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Not Deployed">
+  </a>
+</td>
+
+
+<td width="25%" align="center">
+  <a href="https://github.com/Angel-ISO/oracleOneEducation/tree/main/alura">
+    <img src="./images/Forum.png" alt="Forums" width="100%">
+  </a>
+   <a href="https://oracle-one-education-forums.vercel.app/">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  </a>
+</td>
+
+
+  </tr>
+</table>
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h1>🐍 My Contributions 🐍</h1>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Angel-ISO/Angel-ISO/output/github-contribution-grid-snake.svg" />
   
@@ -115,39 +186,39 @@
 </div>
 
 <br/>
-<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Angel-ISO&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+<h1>GitHub :octocat:</h1>
 
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/einyel_374)
+<div align="center">
 
 
 
+![](https://github-profile-trophy.vercel.app/?username=Angel-ISO&theme=gruvbox&no-frame=false&no-bg=true&margin-w=2)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Angel-Iso&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Angel-Iso&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Angel-Iso&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
+
+![](https://github-readme-stats.vercel.app/api?username=Angel-Iso&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Angel-Iso&theme=highcontrast&hide_border=false)<br/>
+
+
 ![](https://github-contributor-stats.vercel.app/api?username=Angel-ISO&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
+</div>
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Send+me+a+message+on+Linkedin!;I'm+always+down+to+collaborate+🥳">
+    
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=79021C&center=true&vCenter=true&width=500&height=40&lines=Thanks+for+visiting!+✌️;+Send+me+a+message+on+Twitter!;I'm+always+down+to+collaborate+🥳" alt="Typing SVG" />
+
 </h3>
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+
+
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Angel-ISO.Angel-ISO" />
