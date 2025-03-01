@@ -164,9 +164,20 @@
     <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
   </a>
 </td>
+</tr>
 
+<tr> 
+<td width="25%" align="center">
+  <a href="https://github.com/Angel-ISO/SpaceInvaders">
+    <img src="./images/spaceInvaders.jpeg" alt="Forums" width="100%">
+  </a>
+   <a href="">
+    <img src="https://img.shields.io/badge/Not%20Deployed-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Not Deployed">
+  </a>
+</td>
 
-  </tr>
+</tr>  
+
 </table>
 
 
