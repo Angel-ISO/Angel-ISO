@@ -15,6 +15,7 @@
 
 <h2 align="center">A little bit about me:</h2>
 
+![Colombia](https://img.shields.io/badge/From-Colombia-%23FFCD00?style=flat-square&logoColor=%23FFCD00&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48Y2lyY2xlIGZpbGw9IiNGRkQ3MDAiIGN4PSIyNTYiIGN5PSIyNTYiIHI9IjI1NiIvPjxwYXRoIGZpbGw9IjAwMDA4MCIgZD0iTTI1NiAwYy0xNDEuNCAwLTI1NiAxMTQuNi0yNTYgMjU2czExNC42IDI1NiAyNTYgMjU2IDI1Ni0xMTQuNiAyNTYtMjU2LTExNC42LTI1Ni0yNTYtMjU2eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yNTYgMTI4Yy03MC43IDAtMTI4IDU3LjMtMTI4IDEyOHM1Ny4zIDEyOCAxMjggMTI4IDEyOC01Ny4zIDEyOC0xMjgtNTcuMy0xMjgtMTI4LTEyOHoiLz48L3N2Zz4=)
 ###
 
 <img align="right" height="190" src="https://media.tenor.com/5bv_BndNtRQAAAAi/endingbrowsing.gif"  />
@@ -93,8 +94,7 @@
 
 
 
-<img align="right" height="120" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" />
-
+<img align="right" width="100" height="80" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" />
 
 <h2 align="center">Some of my favorite projects:</h2>
 
