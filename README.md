@@ -93,7 +93,7 @@
 
 
 
-<img align="right" height="90" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" />
+<img align="right" height="120" src="https://media.tenor.com/azZCJ2YpsGgAAAAi/programming.gif" />
 
 
 <h2 align="center">Some of my favorite projects:</h2>
